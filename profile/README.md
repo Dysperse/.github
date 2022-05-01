@@ -1,4 +1,4 @@
-[![Image](https://i.ibb.co/PZr6Gdn/save-money-by-keeping-track-of-what-you-have-at-home-1.png)](https://smartlist.ga)
+![image](https://user-images.githubusercontent.com/77016441/166165813-d8f96fd9-4852-4718-843d-0fe682277e52.png)
 # Smartlist
 ### Current version: 6.1-alpha
 ### Languages used: NodeJS, PHP, HTML/CSS, JavaScript
